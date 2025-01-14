@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @NUM07
+- 👋 Hi, I’m @NUMANEMRITH
 - 👀 I’m interested in C++,FORTRAN,LINUX,OPENOFFICECALC
 - 🌱 I’m currently learning BSC PHYSICS WITH COMPUTING
 - 💞️ I’m looking to collaborate on ...
